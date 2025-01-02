@@ -1,3 +1,5 @@
+<img width="1200" alt="img" src="https://github.com/user-attachments/assets/cab7e848-3026-4362-8e68-b70548024b12" />
+
 # Git을 이용해 협업하기
 
 ## 팀원
