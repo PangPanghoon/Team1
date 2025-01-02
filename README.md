@@ -1,4 +1,7 @@
-<img width="1200" alt="img" src="https://github.com/user-attachments/assets/cab7e848-3026-4362-8e68-b70548024b12" />
+<div align="center">
+  <img width="400" alt="img" src="https://github.com/user-attachments/assets/cab7e848-3026-4362-8e68-b70548024b12" />
+</div>
+</br>
 
 # Git을 이용해 협업하기
 
